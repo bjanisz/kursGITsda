@@ -1,1 +1,3 @@
 Inna wersja tego pliku.
+
+Dodatnie nowej funkcjonalności.
